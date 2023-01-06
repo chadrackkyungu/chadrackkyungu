@@ -1,5 +1,10 @@
- <h1 align="center">Hi 👋, I'm Chadrack kyungu</h1>
+ <h1 align="center">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself Chadrack_code</h1>
 <h3 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
+
+<h4 align="center">I work for TNGSolutions as Front-end JavaScript eveloper </h4>
+<h4 align="center">I do freelancing on Upwork as a Full Stack javaScript developer </h4>
+<h4 align="center">I'm a project manager, i managed a team call the unitedprogrammers, we built only complex projects, if you would like to join my team you are welcome </h4>
+
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadrackkyungu&label=Profile%20views&color=0e75b6&style=flat" alt="chadrackkyungu" /> </p>
