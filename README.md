@@ -1,8 +1,8 @@
- <h1 align="center">Hi 👋, I'm Chadrack kyungu</h1>
+ <h1 align="center">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself chadrack_code</h1>
 <h4 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database...</h4>
 
-<h5 align="left">I work for TNGSolutions as a Front-end developer</h5>
-<h5 align="left">I do Freelancing on Upwork as a full statck javaScript developer</h5>
+<h5 align="center">I work for TNGSolutions as a Front-end developer</h5>
+<h5 align="center">I do Freelancing on Upwork as a full statck javaScript developer</h5>
 
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
@@ -12,13 +12,16 @@
 
 <p align="left"> <a href="https://twitter.com/chadrack_code" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
 
+<h3>My Upwork profile : </h3>
+<p align="left"> <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React, NodeJs, Redux, NextJs, Bootstrap, css**
 
 - 📫 How to reach me : DM **chadrackkyungu624@gmail.com**
 
-- 💙 Fun fact: I love Playing FIFA
+- 💙 Fun fact: I love Playing FIFA & Music
 
 <h3>Download My Resume</h3>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1puBzB2P8GsUm6SB8P0Q9QkHvM2z9Mzv6/view?usp=sharing](https://drive.google.com/file/d/1puBzB2P8GsUm6SB8P0Q9QkHvM2z9Mzv6/view?usp=sharing)
