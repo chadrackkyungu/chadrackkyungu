@@ -55,9 +55,9 @@
 <br>
 <br>
 <h3 align="left">My State:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chadrackkyungu&show_icons=true&locale=en" alt="chadrackkyungu" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chadrackkyungu&show_icons=true&locale=en" alt="chadrackkyungu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadrackkyungu&" alt="chadrackkyungu" /></p>
 <h3 align="left">My Skils:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadrackkyungu&show_icons=true&locale=en&layout=compact" alt="chadrackkyungu" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=chadrackkyungu&show_icons=true&locale=en&layout=compact" alt="chadrackkyungu" /></p>
 
 
