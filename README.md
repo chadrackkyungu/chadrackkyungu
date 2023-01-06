@@ -3,6 +3,7 @@
 
 <h5 align="center">I work for TNGSolutions as a Front-end developer</h5>
 <h5 align="center">I do Freelancing on Upwork as a full statck javaScript developer</h5>
+<h5 align="center">I'm a project manager, i managed a team call the united programmer, we built only complex projects, if you wanna join my team DM me</h5>
 
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
