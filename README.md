@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/chadrack_code" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
 
 <h3>My Upwork profile : </h3>
-<p align="left"> <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1" target="blank"> </p>
+<p align="left"> <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1" target="blank"> Chadrack Kyungu </a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
