@@ -60,5 +60,4 @@
 <h3 align="left">My Skils:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadrackkyungu&show_icons=true&locale=en&layout=compact" alt="chadrackkyungu" /></p>
 
-<h3 align="left">Some of my projects:</h3>
 
