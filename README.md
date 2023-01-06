@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/chadrack_code" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
 
 <h3> Hire me on Upwork : </h3>
-- <p align="left"> Upwork <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1"> Chadrack Kyungu </a> </p>
+  <p align="left"> Upwork <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1"> Chadrack Kyungu </a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -59,3 +59,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadrackkyungu&" alt="chadrackkyungu" /></p>
 <h3 align="left">My Skils:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadrackkyungu&show_icons=true&locale=en&layout=compact" alt="chadrackkyungu" /></p>
+
+<h3 align="left">Some of my projects:</h3>
+
