@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/chadrack_code" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
 
 <h3> Hire me on Upwork : </h3>
-<p align="left"> Upwork <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1"> Chadrack Kyungu </a> </p>
+- <p align="left"> Upwork <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1"> Chadrack Kyungu </a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me : DM **chadrackkyungu624@gmail.com**
 
-- 💙 Fun fact: I love Playing FIFA
+- 💙 Fun fact: I love Playing FIFA & Lesting to Music
 
 <h3>Download My Resume</h3>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1puBzB2P8GsUm6SB8P0Q9QkHvM2z9Mzv6/view?usp=sharing](https://drive.google.com/file/d/1puBzB2P8GsUm6SB8P0Q9QkHvM2z9Mzv6/view?usp=sharing)
