@@ -1,9 +1,11 @@
  <h1 align="center">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself Chadrack_code</h1>
 <h3 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
 
-<h4 align="center">I work for TNGSolutions as Front-end JavaScript eveloper </h4>
+<h4 align="center">I work for TNGSolutions as Front-end JavaScript Developer </h4>
 <h4 align="center">I do freelancing on Upwork as a Full Stack javaScript developer </h4>
-<h4 align="center">I'm a project manager, i managed a team call the unitedprogrammers, we built only complex projects, if you would like to join my team you are welcome </h4>
+<h4 align="center">I Managed a team call the unitedprogrammers, we built only complex projects </h4>
+<h4 align="center">Do you want to join ? </h4>
+<p align="center"> DM me & don't forget to follow me on Github, Twitter, Instagram , & Linkdin ... </p>
 
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
@@ -12,6 +14,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chadrackkyungu" alt="chadrackkyungu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chadrack_code" target="blank"><img src="https://img.shields.io/twitter/follow/chadrack_code?logo=twitter&style=for-the-badge" alt="chadrack_code" /></a> </p>
+
+<h3> Hire me on Upwork : </h3>
+<p align="left"> Upwork <a href="https://www.upwork.com/freelancers/~0153fa54f9e67e2c46?viewMode=1"> Chadrack Kyungu </a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 
