@@ -1,5 +1,9 @@
  <h1 align="center">Hi 👋, I'm Chadrack kyungu</h1>
-<h3 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
+<h4 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database...</h4>
+
+<h5 align="left">I work for TNGSolutions as a Front-end developer</h5>
+<h5 align="left">I do Freelancing on Upwork as a full statck javaScript developer</h5>
+
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadrackkyungu&label=Profile%20views&color=0e75b6&style=flat" alt="chadrackkyungu" /> </p>
