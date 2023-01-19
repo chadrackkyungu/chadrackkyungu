@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself Chadrack_code</h1>
-<h3 align="center">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
+ <h1 align="left">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself Chadrack_code</h1>
+<h3 align="left">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
 
-<h4 align="center">I work for TNGSolutions as Front-end JavaScript Developer </h4>
-<h4 align="center">I do freelancing on Upwork as a Full Stack javaScript developer </h4>
-<h4 align="center">I Managed a team call the unitedprogrammers, we built only complex projects </h4>
-<h4 align="center">Do you want to join ? </h4>
-<p align="center"> DM me & don't forget to follow me on Github, Twitter, Instagram , & Linkdin ... </p>
+<h4 align="left">I work for TNGSolutions as Front-end JavaScript Developer </h4>
+<h4 align="left">I do freelancing on Upwork as a Full Stack javaScript developer </h4>
+<h4 align="left">I Managed a team call the unitedprogrammers, we built only complex projects </h4>
+<h4 align="left">Do you want to join ? </h4>
+<p align="left"> DM me & don't forget to follow me on Github, Twitter, Instagram , & Linkdin ... </p>
 
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
