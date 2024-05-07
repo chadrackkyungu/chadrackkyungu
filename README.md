@@ -1,5 +1,5 @@
- <h1 align="left">Hi 👋, I'm Chadrack kyungu</h1>
-<h3 align="left">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript | TypeScrip | HTML | CSS 
+<h1 align="left">Hi 👋, I'm Chadrack kyungu</h1>
+<h3 align="left">I'm  a passionate Full Stack Engineer 🚀 having experience of building Web and Mobile application with JavaScript | TypeScrip | HTML | CSS 
 | Bootstrap | Material UI | Tailwind CSS | Reactjs | Nextjs | Nodejs | ExpressJs | Figma | React Native | Firebase | MongoDb </h3>
 
 <h4 align="left">I work for TNGSolutions as Full-Stack Engineer </h4>
