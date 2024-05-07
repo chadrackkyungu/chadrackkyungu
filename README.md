@@ -1,11 +1,10 @@
- <h1 align="left">Hi 👋, I'm Chadrack kyungu, but i prefer calling myself Chadrack_code</h1>
-<h3 align="left">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript / HTML / CSS / Bootstrap / Reactjs / Nextjs / Nodejs / Figma / React Native / Firebase & MongoDb Database</h3>
+ <h1 align="left">Hi 👋, I'm Chadrack kyungu</h1>
+<h3 align="left">A passionate Full Stack Software Developer 🚀 having a experience of building Web and Mobile application with JavaScript | TypeScrip | HTML | CSS 
+| Bootstrap | Material UI | Tailwind CSS | Reactjs | Nextjs | Nodejs | ExpressJs | Figma | React Native | Firebase | MongoDb </h3>
 
-<h4 align="left">I work for TNGSolutions as Front-end JavaScript Developer </h4>
-<h4 align="left">I do freelancing on Upwork as a Full Stack javaScript developer </h4>
-<h4 align="left">I Managed a team call the unitedprogrammers, we built only complex projects </h4>
-<h4 align="left">Do you want to join ? </h4>
-<p align="left"> DM me & don't forget to follow me on Github, Twitter, Instagram , & Linkdin ... </p>
+<h4 align="left">I work for TNGSolutions as Full-Stack Engineer </h4>
+<h4 align="left">I do freelancing on Upwork, Freelancer.com  and People Per Hours as a Full Stack Engineer </h4>
+<h4 align="left">I'm a member of University of code community </h4>
 
 <img width="1200" src="https://i0.wp.com/mydelsu.com/wp-content/uploads/2022/05/software-developer-g42c807283_1920-1.jpg?fit=1920%2C1281&ssl=1" alt="chadrackkyungu" />
 
